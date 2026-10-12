@@ -23,7 +23,7 @@
 * 📦 **modrinth:** [modrinth.com/resourcepack/foxward-rp](https://modrinth.com/resourcepack/foxward-rp)
 * 🌐 **сайт:** [foxward.com](https://foxward.com)
 * 💬 **discord:** [foxward.com/discord](https://foxward.com/discord)
-* 📢 **telegram:** [t.me/foxward_srv](https://t.me/foxward_srv)
+* 📢 **telegram:** [t.me/foxward_srv](https://t.me/foxward_srv) 
 * 🎨 **ksepsp:** [planet minecraft](https://www.planetminecraft.com/texture-pack/ksepsp-v9-optifine-cit/)
 
 ---
